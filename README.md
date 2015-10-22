@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 output: html_document
 ---
@@ -37,3 +38,7 @@ After the needed data is downloade run in R Studio the script run.analysis.R
 
 The last step in this script is writing the file tidy.txt which contins the required data.
 
+=======
+# GettingAndCleaningData
+This repo stores the project assigment of Coursera course Getting and Cleaning Data
+>>>>>>> 52ddc30f40e7ebf42bf60bc54b50bc05ccb28b46
