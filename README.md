@@ -1,7 +1,3 @@
-<<<<<<< HEAD
----
-output: html_document
----
 ## Introduction
 The result consist of the creating a tidy dataset containing the mean and standard deviation of defined activities.
 
